@@ -1,0 +1,66 @@
+<?xml version="1.0"?><!DOCTYPE package SYSTEM "oeb1.ent">
+
+<!-- the command line instruction 'kindlegen dictionary.opf' will produce the dictionary.mobi file -->
+
+<package unique-identifier="uid" xmlns="http://www.idpf.org/2007/opf">
+
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:Identifier id="uid">dictionary</dc:Identifier>
+    <dc:Title>Chinese Pinyin-English Dictionary</dc:Title>
+    <dc:Creator opf:role="aut" opf:file-as="Grabher, Alfons">Grabher Alfons</dc:Creator>
+    <dc:Language>zh</dc:Language>
+    <x-metadata>
+        <DictionaryInLanguage>zh</DictionaryInLanguage>
+        <DictionaryOutLanguage>en</DictionaryOutLanguage>
+        <DefaultLookupIndex>pinyin</DefaultLookupIndex>
+    </x-metadata>
+</metadata>
+
+<manifest>
+    <item id="cover" href="cover.html" media-type="application/xhtml+xml"/>
+    <item id="cover-image" href="dictcover.jpg" media-type="image/jpeg" properties="cover-image"/>
+<item id="dictionary0" href="dictionary0.html" media-type="application/xhtml+xml"/>
+<item id="dictionary1" href="dictionary1.html" media-type="application/xhtml+xml"/>
+<item id="dictionary2" href="dictionary2.html" media-type="application/xhtml+xml"/>
+<item id="dictionary3" href="dictionary3.html" media-type="application/xhtml+xml"/>
+<item id="dictionary4" href="dictionary4.html" media-type="application/xhtml+xml"/>
+<item id="dictionary5" href="dictionary5.html" media-type="application/xhtml+xml"/>
+<item id="dictionary6" href="dictionary6.html" media-type="application/xhtml+xml"/>
+<item id="dictionary7" href="dictionary7.html" media-type="application/xhtml+xml"/>
+<item id="dictionary8" href="dictionary8.html" media-type="application/xhtml+xml"/>
+<item id="dictionary9" href="dictionary9.html" media-type="application/xhtml+xml"/>
+<item id="dictionary10" href="dictionary10.html" media-type="application/xhtml+xml"/>
+<item id="dictionary11" href="dictionary11.html" media-type="application/xhtml+xml"/>
+<item id="dictionary12" href="dictionary12.html" media-type="application/xhtml+xml"/>
+<item id="dictionary13" href="dictionary13.html" media-type="application/xhtml+xml"/>
+<item id="dictionary14" href="dictionary14.html" media-type="application/xhtml+xml"/>
+<item id="dictionary15" href="dictionary15.html" media-type="application/xhtml+xml"/>
+<item id="dictionary16" href="dictionary16.html" media-type="application/xhtml+xml"/>
+</manifest>
+
+<spine>
+    <itemref idref="cover"/>
+<itemref idref="dictionary0"/>
+<itemref idref="dictionary1"/>
+<itemref idref="dictionary2"/>
+<itemref idref="dictionary3"/>
+<itemref idref="dictionary4"/>
+<itemref idref="dictionary5"/>
+<itemref idref="dictionary6"/>
+<itemref idref="dictionary7"/>
+<itemref idref="dictionary8"/>
+<itemref idref="dictionary9"/>
+<itemref idref="dictionary10"/>
+<itemref idref="dictionary11"/>
+<itemref idref="dictionary12"/>
+<itemref idref="dictionary13"/>
+<itemref idref="dictionary14"/>
+<itemref idref="dictionary15"/>
+<itemref idref="dictionary16"/>
+</spine>
+
+<tours/>
+<guide>
+    <reference type="cover" title="Cover" href="cover.html"/>
+</guide>
+</package>
