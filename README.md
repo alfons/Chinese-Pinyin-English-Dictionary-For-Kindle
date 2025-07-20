@@ -1,6 +1,6 @@
 # Chinese Pīnyīn to English Dictionary: A Fully Pīnyīn-Focused Resource for Kindle E-Readers
 
-This dictionary is the result of one month of full-time software wrangling, frustration, dedication, and love for the Pīnyīn writing system. It's available on Gumroad — for your convenience, and as a reward for my efforts. There can purchase the ready-to-use Kindle dictionary and download it instantly:
+This dictionary is the result of one month of full-time software wrangling, frustration, dedication, and love for the Pīnyīn writing system. It's available on Gumroad — for your convenience, and as a reward for my efforts. There you can purchase the ready-to-use Kindle dictionary and download it instantly:
 
 [https://papperlapapp.gumroad.com/l/pinyin-english-dictionary](https://papperlapapp.gumroad.com/l/pinyin-english-dictionary)
 
